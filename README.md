@@ -23,4 +23,6 @@
 </ol>
 
 <hr />
-<p>Thank you for checking out my project!</p>
+<p>-------------------------😍Thank you for checking out my project!😍-------------------------</p>
+<p>--------------------😍Don't forget to check out my other exciting projects as well!😍--------------------</p>
+
