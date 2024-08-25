@@ -3,7 +3,7 @@
     <p>This project is my second JavaScript project, where I focused on building a <strong>Dice Game</strong>. The game is designed for two players and revolves around rolling dice, accumulating scores, and racing to reach a 100-point target. Through this project, I deepened my understanding of JavaScript and game logic.</p>
 
 
-<img width="1437" alt="Dice" src="https://github.com/user-attachments/assets/28491272-c410-4bae-8f7c-fc47f73bf251">
+<img width="1437" alt="Dice" src="https://github.com/user-attachments/assets/28491272-c410-4bae-8f7c-fc47f73bf251"/>
 
     <h2>What I Learned</h2>
     <p>While working on this project, I gained hands-on experience with the following:</p>
