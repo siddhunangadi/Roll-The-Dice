@@ -1,9 +1,8 @@
-<img width="1437" alt="Screenshot 2024-08-25 at 3 46 00 PM" src="https://github.com/user-attachments/assets/28491272-c410-4bae-8f7c-fc47f73bf251"><h1>Dice Game</h1>
-
+<h1>Dice Game</h1>
     <h2>Overview</h2>
     <p>This project is my second JavaScript project, where I focused on building a <strong>Dice Game</strong>. The game is designed for two players and revolves around rolling dice, accumulating scores, and racing to reach a 100-point target. Through this project, I deepened my understanding of JavaScript and game logic.</p>
 
-<img src="img_girl.jpg" alt="Dice Game" width="500" height="600">
+<img width="1437" alt="Screenshot 2024-08-25 at 3 46 00 PM" src="https://github.com/user-attachments/assets/28491272-c410-4bae-8f7c-fc47f73bf251">
 
 
     <h2>What I Learned</h2>
